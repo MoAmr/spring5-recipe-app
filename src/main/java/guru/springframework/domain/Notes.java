@@ -3,9 +3,8 @@ package guru.springframework.domain;
 import javax.persistence.*;
 
 /**
- * Created by jt on 6/13/17.
+ * Created by M.Amr on 6/17/19.
  */
-@Entity
 public class Notes {
 
     @Id
