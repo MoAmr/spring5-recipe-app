@@ -6,7 +6,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /**
- * Created by jt on 6/13/17.
+ * Created by M.Amr on 19/6/19.
  */
 @Entity
 public class UnitOfMeasure {
